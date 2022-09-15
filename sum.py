@@ -1,3 +1,4 @@
+#This code uses the range and sum functions to calculate the sum of the numbers from 1-100. The range function is used to gather all the numbers from 1-100 together,and sum calculates the sum of it all, adding up to 5050. I also use list to list the numbers from 1-100
 {
  "cells": [
   {
